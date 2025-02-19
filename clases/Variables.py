@@ -20,4 +20,6 @@ print("Resto: "+ str(numero1%numero2))
 print("POTENCIA: "+ str(numero1**numero2))
 print("Raiz cuadrada: "+ str(numero1**0.5))
 
-len(nombre)
+len(nombre) #IMPRIME EL NUMERO DE LOS CARACTERES DEL NOMBRE
+
+nombre = [3, 4, 5, 3]
